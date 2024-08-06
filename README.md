@@ -9,4 +9,3 @@ During the development of the project, images of the necessary containers and se
 [LICENSE](/LICENSE)
 
 See [original repository](https://github.com/denilsonbonatti/k8s-projeto1-app-base).
-# Creating_an_Application_Deploy
